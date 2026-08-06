@@ -87,7 +87,7 @@ uv run python src/agent.py download-files
 
 ```bash
 cd frontend
-pnpm install
+npm install
 ```
 
 ### Step 5: Run it
